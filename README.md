@@ -9,27 +9,33 @@ This project demonstrates the implementation of custom views, canvas drawing, to
 ## Activities Included
 
 - **SplashActivity**  
-  Displays the splash screen when the app is launched.  
+  Displays the splash screen when the app is launched.
+  
   ![splash.png](screenshots/splash.png)
 
 - **OnboardingActivity**  
-  Introduces the application features to first-time users.  
-  ![onboard.png](screenshots/onbroad.png)
+  Introduces the application features to first-time users.
+  
+   ![onboard.png](screenshots/onbroad.png)
 
 - **LoginSignupActivity**  
-  Provides options for users to log in, continue as a guest, or navigate to the signup screen.  
+  Provides options for users to log in, continue as a guest, or navigate to the signup screen.
+   
   ![login.png](screenshots/login.png)
 
 - **SignupActivity**  
-  Allows new users to create an account by entering their details.  
+  Allows new users to create an account by entering their details.
+  
   ![signup.png](screenshots/signup.png)
 
 - **ForgotPasswordActivity**  
-  Enables users to reset their password by providing their email and new password.  
+  Enables users to reset their password by providing their email and new password.
+   
   ![forgotpassword.png](screenshots/forgetpassword.png)
 
 - **PaintActivity**  
-  Provides a drawing interface where users can draw freely using touch gestures. Users can zoom in and out, adjust brush size, undo and redo actions, and add stickers, shapes, or paint freely.  
+  Provides a drawing interface where users can draw freely using touch gestures. Users can zoom in and out, adjust brush size, undo and redo actions, and add stickers, shapes, or paint freely.
+  
   ![paint.png](screenshots/Paint.png)
 
 ## Features
