@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_bg">#F2F4FF</color> <!-- Light background color -->
+    <color name="text_primary">#1A1A1A</color> <!-- Dark text for Title -->
+    <color name="text_secondary">#7C7CFF</color> <!-- Purple text for subtitle -->
+</resources>
